@@ -43,3 +43,7 @@ git clone https://github.com/pratham-404/Todo-List.git
 ## Contributing
 
 Contributions to this project are always welcome! If you have any ideas for new features, or if you find a bug and would like to submit a fix, please feel free to fork this repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
