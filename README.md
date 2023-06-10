@@ -6,7 +6,7 @@ A simple web application for managing your daily tasks.
   <img src="https://static.vecteezy.com/system/resources/previews/020/980/447/large_2x/neon-icon-set-checklist-tasks-set-of-red-blue-yellow-neon-icon-on-transparency-dark-background-vector.jpg" alt="description of image" class="center" style="height: 300px; width: 800px">
 </p>
 
-Special Thanks to [`Mithi Bhau`](https://github.com/mithileshkawalkar)
+Special Thanks to [`Mithilesh`](https://github.com/mithileshkawalkar)
 
 ## Features
 
